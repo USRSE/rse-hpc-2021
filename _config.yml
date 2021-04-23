@@ -30,17 +30,13 @@ description: RSE-HPC-2021 Workshop at SC21
 # List of links in the navigation bar
 navbar-links:
 
-  About: 
-#    - Overview & Goals: "about"
-    - Organizing Committee: "committee"
-#  Participants:
-#    - Application: "application"
-#    - Venue: "venue"
-#    - Travel Information: "travel"
-#    - Get involved: "get-involved"
-#  Agenda: "agenda"
-#  Diversity Statement: "diversity"
-#  Code of Conduct: "code-of-conduct"
+  Home: ""
+  More Info:
+#    - About: "about"
+#    - Agenda: "agenda"
+#    - Call for Submissions: "call"
+    - Committees: "committee"
+#    - Position Papers: "papers"
 
 # --- Background colour/image options --- #
 
