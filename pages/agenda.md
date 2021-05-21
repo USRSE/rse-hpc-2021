@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agenda (tentative)
+title: Agenda (preliminary)
 permalink: /agenda/
 ---
 
