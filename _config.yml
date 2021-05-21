@@ -33,7 +33,7 @@ navbar-links:
   Home: ""
   More Info:
 #    - About: "about"
-#    - Agenda: "agenda"
+    - Agenda: "agenda"
 #    - Call for Submissions: "call"
     - Committees: "committee"
 #    - Position Papers: "papers"
