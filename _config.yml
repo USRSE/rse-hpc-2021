@@ -34,7 +34,7 @@ navbar-links:
   More Info:
 #    - About: "about"
     - Agenda: "agenda"
-#    - Call for Submissions: "call"
+    - Call for Papers: "call"
     - Committees: "committee"
 #    - Position Papers: "papers"
 
