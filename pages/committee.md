@@ -26,6 +26,7 @@ permalink: /committee/
 - Rinku Gupta, Argonne National Laboratory, USA
 - Carina Haupt, German Aerospace Center (DLR), Germany
 - Tom Honeyman, Australia Research Data Commons, Australia
+- James Lin, Shanghai Jiao Tong University, China
 - Kenton McHenry, University of Illinois at Urbana-Champaign, USA
 - Kengo Nakajima,  RIKEN Center for Computational Science & University of Tokyo, Japan
 - Mitsuhisa Sato, RIKEN Center for Computational Science & University of Tsukuba, Japan
