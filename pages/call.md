@@ -9,8 +9,8 @@ permalink: /call/
 ### Timeline
 
 - Submissions open:  June 7, 2021
-- Submissions due:  August 7, 2021 - **NO EXTENSIONS**
-- Notifications sent:  September 4, 2021
+- Submissions due:  August 6, 2021 - **NO EXTENSIONS**
+- Notifications sent:  September 3, 2021
 - Program finalized:  September 17, 2021
 - Workshop date:  November 15, 2021
 
