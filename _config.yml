@@ -31,12 +31,13 @@ description: RSE-HPC-2021 Workshop at SC21
 navbar-links:
 
   Home: ""
-  More Info:
-#    - About: "about"
-    - Agenda: "agenda"
-    - Call for Papers: "call"
-    - Committees: "committee"
-#    - Position Papers: "papers"
+#  More Info:
+#    - Agenda: "agenda"
+#    - Call for Papers: "call"
+#    - Committees: "committee"
+  Agenda: "agenda"
+  Call for Papers: "call"
+  Committees: "committee"
 
 # --- Background colour/image options --- #
 
