@@ -20,7 +20,7 @@ These papers will not be part of the SC proceedings, but we will ask the authors
 
 We particularly encourage submissions from first-time conference presenters, and from members of groups that have historically been underrepresented in the HPC community.
 
-Papers and discussion topics should be submitted using the link below.  The deadline for submissions is Friday, August 6, 2021, at 11:59 PM AoE (UTC-12).
+Papers should be submitted using the link below.  The deadline for submissions is Friday, August 6, 2021, at 11:59 PM AoE (UTC-12).
 
 Submission website:
 <https://submissions.supercomputing.org/?page=Submit&id=SC21WorkshopRSEHPC2021Submission&site=sc21>
