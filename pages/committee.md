@@ -28,6 +28,7 @@ permalink: /committee/
 - Robert Haines, University of Manchester, UK
 - Carina Haupt, German Aerospace Center (DLR), Germany
 - Tom Honeyman, Australia Research Data Commons, Australia
+- Catherine Jones, Science and Technology Facilities Council, UK
 - James Lin, Shanghai Jiao Tong University, China
 - Kenton McHenry, University of Illinois at Urbana-Champaign, USA
 - Lauren Milechin, Massachusetts Institute of Technology, USA
