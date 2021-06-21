@@ -29,10 +29,13 @@ permalink: /committee/
 - Carina Haupt, German Aerospace Center (DLR), Germany
 - Tom Honeyman, Australia Research Data Commons, Australia
 - Catherine Jones, Science and Technology Facilities Council, UK
+- Nick Jones, New Zealand eScience Infrastructure, NZ
 - James Lin, Shanghai Jiao Tong University, China
+- Nooriyah Lohani, New Zealand eScience Infrastructure, NZ
 - Kenton McHenry, University of Illinois at Urbana-Champaign, USA
 - Lauren Milechin, Massachusetts Institute of Technology, USA
 - Kengo Nakajima,  RIKEN Center for Computational Science & University of Tokyo, Japan
+- Jordan Perr-Sauer, National Renewable Energy Laboratory, USA
 - Mitsuhisa Sato, RIKEN Center for Computational Science & University of Tsukuba, Japan
 - Mahmood Mohammadi Shad, Harvard University, USA
 - Karen Tomko, Ohio Supercomputer Center, USA
