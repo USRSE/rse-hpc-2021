@@ -10,10 +10,10 @@ Monday, November 15, 2021
 
 - 9:00 am -- Session 1
     - 10 minutes: Introduction and overview of day
-    - 50 minutes: Keynote
+    - 50 minutes: Keynote and Q&A
 - 10:00 am -- Break
 - 10:30 am -- Session 2
-    - 60 minutes: Short talks, including worldwide RSE activities
+    - 60 minutes: Short talks
     - 60 minutes: Panel discussion 1
 - 12:30 pm -- Lunch
 - 2:00 pm -- Session 3
