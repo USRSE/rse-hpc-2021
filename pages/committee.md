@@ -7,7 +7,7 @@ permalink: /committee/
 ## Organizing Committee
 
 - Charles Ferenbaugh, Los Alamos National Laboratory, USA
-- Sandra Gesing, University of Notre Dame, USA
+- Sandra Gesing, Discovery Partner Institute and University of Illinois Chicago, USA
 - Simon Hettrick, Software Sustainability Institute, UK
 - Daniel S. Katz, University of Illinois Urbana-Champaign, USA
 
