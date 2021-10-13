@@ -31,7 +31,7 @@ Monday, November 15, 2021
         - Melven Röhrig-Zöllner, German Aerospace Center (DLR)
         - Kazutomo Yoshii, Argonne National Laboratory
         - Ivo Kabadshow, Forschungzentrum Jülich
-        - TBA
+        - Mark Parsons, Edinburgh Parallel Computing Centre (EPCC)
 - 3:00 pm – Break
 - 3:30 pm – Session 4
     - 30 min: Invited talk 2
