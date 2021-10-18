@@ -32,6 +32,7 @@ Monday, November 15, 2021
         - Kazutomo Yoshii, Argonne National Laboratory
         - Ivo Kabadshow, Forschungzentrum Jülich
         - Mark Parsons, Edinburgh Parallel Computing Centre (EPCC)
+        - Miranda Mundt, Sandia National Laboratory
 - 3:00 pm – Break
 - 3:30 pm – Session 4
     - 30 min: Invited talk 2
@@ -43,6 +44,8 @@ Monday, November 15, 2021
         - Nooriyah Lohani, New Zealand eScience Infrastructure
         - Alfredo Goldman, Brazil
         - Yanina Bellini Saibene, Argentina
+        - Mark Leggott, Canada
+        - Stephannie Jiménez Gacha, Quansight, Colombia
     - 10 min: Wrap-up
 - 5:30 pm – End
 
