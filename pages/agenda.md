@@ -12,8 +12,8 @@ Monday, November 15, 2021
 
 - 9:00 am – Session 1
     - 15 min: Introduction and overview of day
-    - 30 min: Invited talk 1
-        - _Does Exascale Computing Change Research Software?_, Lois Curfman McInnes, Argonne National Laboratory
+    - 30 min: Conversation: Exascale Computing and Research Software
+        - Lois Curfman McInnes, Argonne National Laboratory
     - 15 min: Q & A
 - 10:00 am – Break
 - 10:30 am – Session 2
@@ -35,8 +35,8 @@ Monday, November 15, 2021
         - Miranda Mundt, Sandia National Laboratory
 - 3:00 pm – Break
 - 3:30 pm – Session 4
-    - 30 min: Invited talk 2
-        - _RSEs and HPC in China_, James Lin, Shanghai Jiao Tong University
+    - 30 min: Conversation: RSEs and HPC in China
+        - James Lin, Shanghai Jiao Tong University
     - 15 min: Q & A
     - 5 min: Short break / set up panel
     - 60 min: Panel discussion 2 (Building RSE Communities Worldwide)
