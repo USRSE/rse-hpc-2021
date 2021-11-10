@@ -44,8 +44,7 @@ Monday, November 15, 2021
         - Nooriyah Lohani, New Zealand eScience Infrastructure
         - Alfredo Goldman, University of São Paulo, Brazil
         - Yanina Bellini Saibene, Universidad Nacional Guillermo Brown, Argentina
-        - Mark Leggott, New Digital Research Infrastructure Organization
-        (NDRIO), Canada
+        - Brian Corrie, Simon Fraser University, Canada
         - Stephannie Jiménez Gacha, Quansight, Colombia
     - 10 min: Wrap-up
 - 5:30 pm – End
