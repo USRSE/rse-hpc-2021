@@ -8,7 +8,7 @@ permalink: /agenda/
 
 *All times are Central Standard Time (UTC-6).*
 
-Monday, November 15, 2021
+Monday, November 15, 2021 (room 226 at SC21, and online via zoom via the [SC21 HUBB](http://sc21.hubb.me))
 
 - 9:00 am – Session 1
     - 15 min: Introduction and overview of day
