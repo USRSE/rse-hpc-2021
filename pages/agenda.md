@@ -12,7 +12,7 @@ Monday, November 15, 2021 (room 226 at SC21, and online via zoom via the [SC21 H
 
 - 9:00 am – Session 1
     - 15 min: Introduction and overview of day
-    - 30 min: Conversation: Exascale Computing and Research Software
+    - 30 min: Conversation: Exascale Computing and Research Software ([slides](https://bit.ly/mcinnes-rse-hpc-2021))
         - Lois Curfman McInnes, Argonne National Laboratory
     - 15 min: Q & A
 - 10:00 am – Break
