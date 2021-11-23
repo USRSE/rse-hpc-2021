@@ -23,6 +23,7 @@ Monday, November 15, 2021 (room 226 at SC21, and online via zoom via the [SC21 H
         - _Building an AI-ready RSE Workforce_, Ying Zhang, University of
         Florida ([slides](https://docs.google.com/presentation/d/1TwlaAZ9xKaXq45Ks7xtjvylENantHTKq))
         - _An Exploration of the Mentorship Needs of Research Software Engineers_, Reed Milewicz, Sandia National Laboratory
+        ([slides](https://drive.google.com/file/d/1cggsJq5o3Vazrww0ols5n-RwpCv8skSo/view))
     - 10 min: Q & A
     - 5 min: Short break / organize breakout groups
     - 60 min: Breakout group discussions: RSE Support and Training
@@ -38,7 +39,7 @@ Monday, November 15, 2021 (room 226 at SC21, and online via zoom via the [SC21 H
 - 3:00 pm – Break
 - 3:30 pm – Session 4
     - 30 min: Conversation: RSEs and HPC in China
-        - James Lin, Shanghai Jiao Tong University
+        - James Lin, Shanghai Jiao Tong University ([slides](https://drive.google.com/file/d/19kZKp4C-f1_zW4fOzXyIBpSH_dxyrUb0))
     - 15 min: Q & A
     - 5 min: Short break / set up panel
     - 60 min: Panel discussion 2: Building RSE Communities Worldwide
